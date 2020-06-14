@@ -1,5 +1,5 @@
 {
-    "radio1": ["Radio Bach", "http://listen.radionomy.com/radio-bach.m3u", 44100.0, 0.79, 0.74, 0.83],
+    "radio1": ["Radio Bach", "https://klassikr.streamabc.net/klr-purebach-mp3-128-7912278", 44100.0, 0.79, 0.74, 0.83],
     "radio2": ["Aussie Tech Heads Stream", "http://yp.shoutcast.com/sbin/tunein-station.pls?id=125708", 44100.0, 0.72, 0.64, 0.86],
     "radio3": ["Radio Paradise", "http://www.radioparadise.com/musiclinks/rp_64aac.m3u", 22050.0, 0.84, 0.52, 0.82],
 }
