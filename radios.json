@@ -1,5 +1,5 @@
 {
     "radio1": ["Radio Bach", "https://klassikr.streamabc.net/klr-purebach-mp3-128-7912278", 44100.0, 0.79, 0.74, 0.83],
-    "radio2": ["Hour of the Time", "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99554685", 44100.0, 0.72, 0.64, 0.86],
+    "radio2": ["California Ag News", "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99464696", 44100.0, 0.72, 0.64, 0.86],
     "radio3": ["Radio Paradise", "http://www.radioparadise.com/musiclinks/rp_64aac.m3u", 22050.0, 0.84, 0.52, 0.82],
 }
